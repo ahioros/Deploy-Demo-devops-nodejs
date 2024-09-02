@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: demo-devops-app
-          image: ahioros/demo-devops-nodejs:10660593811
+          image: ahioros/demo-devops-nodejs:10667332991
           resources:
             requests:
               memory: "64Mi"
