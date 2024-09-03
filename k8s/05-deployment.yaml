@@ -20,7 +20,7 @@ spec:
             claimName: demo-devops-pvc
       containers:
         - name: demo-devops-app
-          image: ahioros/demo-devops-nodejs:10676842093
+          image: ahioros/demo-devops-nodejs:10678705339
           readinessProbe:
             httpGet:
               path: /api/users
